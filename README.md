@@ -35,8 +35,8 @@ Other strong regions include Southwest ($5.72M) and Northwest ($3.65M).
 
 🔹 **Technology Used**
 
-Tool: Power BI, Tableau, ETL/
-Data Source: Adventure Works dataset/
+Tool: Power BI, Tableau, ETL |
+Data Source: Adventure Works dataset |
 Key Techniques: Data Cleaning, Data Visualization, SQL
 
 📢 **Summary**
