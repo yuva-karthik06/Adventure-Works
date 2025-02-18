@@ -14,17 +14,21 @@ Total Order Quantity: 📦 60,398
 1️⃣ Year-wise Sales Analysis
 Tracks sales trends from 2010 to 2014.
 Highlights the highest sales year (2013 with $16.35M).
+
 2️⃣ Quarter-wise Sales Breakdown
 A pie chart showing quarterly sales distribution.
 Highest sales recorded in Q4 ($9.11M), followed by Q3 and Q2.
+
 3️⃣ Month-wise Sales Trends
 A line chart showing monthly sales fluctuations.
 Peak month: December ($3.21M).
 Lowest month: February ($1.74M).
+
 4️⃣ Sales by Country
 Top-performing country: 🇺🇸 United States ($9.39M).
 Australia follows closely with $9.06M.
 Other key markets: United Kingdom, Germany, France, and Canada.
+
 5️⃣ Sales by Region
 Australia leads with $9.06M in sales.
 Other strong regions include Southwest ($5.72M) and Northwest ($3.65M).
